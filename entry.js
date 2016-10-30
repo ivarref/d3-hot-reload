@@ -3,7 +3,7 @@ var d3 = require("d3");
 var svg = d3.select('body').append('svg');
 svg.attr('width', 320)
     .attr('height', 200)
-    .style('border', "1px solid #ffaa00")
+    .style('border', "1px solid #000000")
 
 svg.selectAll('circle')
     .data([5, 8, 15, 16, 23])
