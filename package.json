@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ivarref/d3-hot-reload#readme",
   "dependencies": {
     "css-loader": "^0.25.0",
+    "d3": "^4.3.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
