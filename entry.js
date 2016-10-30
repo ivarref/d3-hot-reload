@@ -1,4 +1,5 @@
 var d3 = require("d3");
+require('./style.css');
 
 var svg = d3.select('body').append('svg');
 svg.attr('width', 320)
